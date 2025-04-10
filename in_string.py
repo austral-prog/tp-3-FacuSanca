@@ -5,3 +5,4 @@ def check_vowels():
     print("Contiene i:" + str("i" in nombre or "I" in nombre))
     print("Contiene o:" + str("o" in nombre or "O" in nombre))
     print("Contiene u:" + str("u" in nombre or "U" in nombre))
+check_vowels()
